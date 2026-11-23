@@ -14,6 +14,10 @@ and the whole line is short enough to say out loud in one breath.
 
 Pure standard library. Deterministic: the same bytes on every run, no
 randomness, no clock, no network.
+
+Exit code 0 on success; 1 if the line fails validation (wrong length,
+blank, multi-line, or not one sentence). The one-sentence rule is the
+brief's "short enough to say out loud" — a single breath, no run-on.
 """
 
 import os
