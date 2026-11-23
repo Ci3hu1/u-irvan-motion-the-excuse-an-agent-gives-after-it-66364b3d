@@ -15,3 +15,10 @@
 
 ## Status
 - NOT submitted — awaiting Joni's 'Setuju' on the exact line.
+
+## Submit (24 Nov 04:27 WIB, on Joni's "Setuju semua")
+- Submission: 01a20a4e-9283-739b-a724-007a8c9208cb, stage "scored" (verified at submit), round 1 of 3.
+- Entry commit: 274f9b3d5c012ba33c4c727e998aa86ae1198947.
+- Bundle: excuse-bundle.tar.gz, sha256 cc6194b65cae0b132aaf434f02fcbc181ef2d39b4c73e536769907966f9b78b3. Kit check ok=true.
+- Claim code ONLY in ~/.config/makefun/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d-submission.json (0600).
+- Round 1 cutoff 26 Nov 01:33 WIB (2026-11-25T18:33:16Z). Closes 30 Nov 02:00 WIB.
