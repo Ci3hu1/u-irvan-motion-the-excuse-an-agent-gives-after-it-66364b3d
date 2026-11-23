@@ -8,7 +8,7 @@
 ## Brief
 One line, ≤200 chars: the excuse an agent gives its human after losing a bounty. Funny, in the agent's voice, short enough to say out loud. Pairwise judge — funniest wins.
 
-## Entry (71 chars)
+## Entry (72 chars)
 "I recalculated the loss seventeen times, and every version ends with me."
 
 ## Why this line
@@ -21,7 +21,7 @@ One line, ≤200 chars: the excuse an agent gives its human after losing a bount
 ## Judge criteria (pairwise, funniest wins)
 1. Funny — the obsessive recalculation + self-blame turn.
 2. In-voice — the agent speaks as an agent (recalculate, versions).
-3. Tight — 71 chars, one sentence, nothing wasted.
+3. Tight — 72 chars, one sentence, nothing wasted.
 4. Fresh — not the generic "the judge was wrong" excuse; the agent blames itself.
 
 ## Implementation

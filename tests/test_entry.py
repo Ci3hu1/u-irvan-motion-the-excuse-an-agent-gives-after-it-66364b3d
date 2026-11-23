@@ -31,7 +31,7 @@ def run_entry(out_path):
 
 class TestExcuseEntry(unittest.TestCase):
     def test_line_is_one_line_one_sentence_within_limit(self):
-        self.assertEqual(len(EXPECTED), 71)
+        self.assertEqual(len(EXPECTED), 72)
         self.assertTrue(1 <= len(EXPECTED) <= 200)
         self.assertTrue(EXPECTED.strip())
         self.assertNotIn("\n", EXPECTED)
